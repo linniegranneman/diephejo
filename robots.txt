@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iveechahsh.esdoc2.org/sitemap.xml
